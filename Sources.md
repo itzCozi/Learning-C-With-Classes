@@ -29,6 +29,18 @@ How I learned pointers and memory
 Simple variables and how to use them  
 [Variables](https://www.w3schools.com/cpp/cpp_variables.asp)
 
+### Functions
+Functions and how to make/use them  
+[W3 Functions](https://www.w3schools.com/cpp/cpp_functions.asp)  
+[W3 Recursions](https://www.w3schools.com/cpp/cpp_functions_recursion.asp)  
+[Function Overload](https://www.w3schools.com/cpp/cpp_function_overloading.asp)  
+
+### Classes
+[Intro to OOP](https://www.w3schools.com/cpp/cpp_oop.asp)  
+[Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp)  
+[Class Methods](https://www.w3schools.com/cpp/cpp_class_methods.asp)  
+[Constructors](https://www.w3schools.com/cpp/cpp_constructors.asp)
+
 ### User input
 How to get user inputs as variables  
 [User Inputs](https://www.w3schools.com/cpp/cpp_user_input.asp)
