@@ -20,15 +20,15 @@ How I learned pointers and memory
 [W3 School](https://www.w3schools.com/cpp/cpp_pointers.asp)
 
 ### Variables
-Simple variables and how to use them
+Simple variables and how to use them  
 [Variables](https://www.w3schools.com/cpp/cpp_variables.asp)
 
 ### User input
-How to get user inputs as variables
+How to get user inputs as variables  
 [User Inputs](https://www.w3schools.com/cpp/cpp_user_input.asp)
 
 ### Output
-How to output in standard and other forms
+How to output in standard and other forms  
 [W3 Outputs](https://www.w3schools.com/cpp/cpp_output.asp)
 
 ### Conditional statements
@@ -36,8 +36,8 @@ If and else statements in C++
 [Programiz article](https://www.programiz.com/cpp-programming/if-else)
 
 ### Loops
-While loops and for loops in C++
-[While Loops](https://www.w3schools.com/cpp/cpp_while_loop.asp)
+While loops and for loops in C++  
+[While Loops](https://www.w3schools.com/cpp/cpp_while_loop.asp)  
 [For Loops](https://www.w3schools.com/cpp/cpp_for_loop.asp)
 
 ### Sleep commands
