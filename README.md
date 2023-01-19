@@ -16,7 +16,7 @@ and work through it link by link practicing each new skill in there online code 
 ## Practice
 After you get tired of reading we are going to use all the things we learned to make a temperature converter!  
 I recommend not following a tutorial and figuiring it out yourself with your new found knowledge  
-but if you can't you can follow. [this](http://www.trytoprogram.com/cpp-examples/cplusplus-program-to-convert-temperature/)
+but if you can't you can follow [this](http://www.trytoprogram.com/cpp-examples/cplusplus-program-to-convert-temperature/).
 
 ## Compilation
 After you have coded your very own temperature converter its time to compile this source code into an Executable (.EXE)  
