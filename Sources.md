@@ -17,7 +17,8 @@ G++ compiler and how to use it
 
 ### Pointers
 How I learned pointers and memory  
-[W3 School](https://www.w3schools.com/cpp/cpp_pointers.asp)
+[W3 School](https://www.w3schools.com/cpp/cpp_pointers.asp)  
+[Freeing Pointers](https://www.geeksforgeeks.org/delete-and-free-in-cpp/)
 
 ### Variables
 Simple variables and how to use them  
