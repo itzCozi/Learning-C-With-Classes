@@ -1,5 +1,5 @@
 # Sources
-All links to where I learned c++ from
+All links to where I learned c++ fuctions and keywords from
 
 ## Introduction
 [Fireship video](https://www.youtube.com/watch?v=MNeX4EGtR5Y)                                                                                        
