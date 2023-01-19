@@ -38,7 +38,7 @@ If and else statements in C++
 [Programiz article](https://www.programiz.com/cpp-programming/if-else)
 
 ### Switches
-How to create and use switch cases
+How to create and use switch cases  
 [W3 Switches](https://www.w3schools.com/cpp/cpp_switch.asp)
 
 ### Loops
