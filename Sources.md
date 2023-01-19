@@ -7,7 +7,7 @@ All links to where I learned c++ fuctions and keywords from
 
 ### Keywords and basics
 All the basics and keywords that "everyone should know"... or not  
-[C++ Basics](https://www.geeksforgeeks.org/cpp-keywords/)
+[C++ Basics](https://www.geeksforgeeks.org/cpp-keywords/)  
 [C++ Syntax](https://www.w3schools.com/cpp/cpp_syntax.asp)
 
 ### Compilation
