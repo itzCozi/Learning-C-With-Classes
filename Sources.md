@@ -2,7 +2,7 @@
 All links to where I learned c++ from
 
 ## Introduction
-[Fireship video](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
+[Fireship video](https://www.youtube.com/watch?v=MNeX4EGtR5Y) /
 [Article](https://www.geeksforgeeks.org/top-10-reasons-to-learn-c-plus-plus/)
 
 ### Pointers
