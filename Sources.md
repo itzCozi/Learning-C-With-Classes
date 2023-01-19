@@ -9,6 +9,7 @@ All links to where I learned c++ fuctions and keywords from
 All the basics and keywords that "everyone should know"... or not  
 [C++ Basics](https://www.geeksforgeeks.org/cpp-keywords/)  
 [C++ Syntax](https://www.w3schools.com/cpp/cpp_syntax.asp)
+[C++ Operators](https://www.w3schools.com/cpp/cpp_operators.asp)
 
 ### Compilation
 G++ compiler and how to use it  
@@ -35,6 +36,10 @@ How to output in standard and other forms
 ### Conditional statements
 If and else statements in C++  
 [Programiz article](https://www.programiz.com/cpp-programming/if-else)
+
+### Switches
+How to create and use switch cases
+[W3 Switches](https://www.w3schools.com/cpp/cpp_switch.asp)
 
 ### Loops
 While loops and for loops in C++  
