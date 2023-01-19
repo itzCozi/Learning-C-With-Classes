@@ -16,6 +16,10 @@ G++ compiler and how to use it
 [G++ Compiler](https://www3.cs.stonybrook.edu/~alee/g++/g++.html)  
 [G++ Tutorial](https://www.tutorialspoint.com/How-to-compile-and-run-the-Cplusplus-program)
 
+### Structures
+How to use and make structures  
+[W3 Structs](https://www.w3schools.com/cpp/cpp_structs.asp)
+
 ### Pointers
 How I learned pointers and memory  
 [W3 School](https://www.w3schools.com/cpp/cpp_pointers.asp)  
@@ -36,6 +40,10 @@ How to output in standard and other forms
 ### Conditional statements
 If and else statements in C++  
 [Programiz article](https://www.programiz.com/cpp-programming/if-else)
+
+### Arrays
+How to use arrays and index  
+[Arrays](https://www.w3schools.com/cpp/cpp_arrays.asp)
 
 ### Switches
 How to create and use switch cases  
