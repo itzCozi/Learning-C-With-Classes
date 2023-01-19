@@ -8,7 +8,7 @@ All links to where I learned c++ fuctions and keywords from
 ### Keywords and basics
 All the basics and keywords that "everyone should know"... or not  
 [C++ Basics](https://www.geeksforgeeks.org/cpp-keywords/)  
-[C++ Syntax](https://www.w3schools.com/cpp/cpp_syntax.asp)
+[C++ Syntax](https://www.w3schools.com/cpp/cpp_syntax.asp)  
 [C++ Operators](https://www.w3schools.com/cpp/cpp_operators.asp)
 
 ### Compilation
@@ -48,6 +48,10 @@ How to use arrays and index
 ### Switches
 How to create and use switch cases  
 [W3 Switches](https://www.w3schools.com/cpp/cpp_switch.asp)
+
+### Data Types
+All data types and there details  
+[W3 Data Types](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
 ### Loops
 While loops and for loops in C++  
