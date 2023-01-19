@@ -35,12 +35,6 @@ Functions and how to make/use them
 [W3 Recursions](https://www.w3schools.com/cpp/cpp_functions_recursion.asp)  
 [Function Overload](https://www.w3schools.com/cpp/cpp_function_overloading.asp)  
 
-### Classes
-[Intro to OOP](https://www.w3schools.com/cpp/cpp_oop.asp)  
-[Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp)  
-[Class Methods](https://www.w3schools.com/cpp/cpp_class_methods.asp)  
-[Constructors](https://www.w3schools.com/cpp/cpp_constructors.asp)
-
 ### User input
 How to get user inputs as variables  
 [User Inputs](https://www.w3schools.com/cpp/cpp_user_input.asp)
@@ -78,3 +72,10 @@ Taking a break in the program for a x amount of seconds
 Full math articles, I only read what the keywords did  
 [Adding numbers](https://www.programiz.com/cpp-programming/examples/add-numbers)  
 [Math in C++](https://www.w3schools.com/cpp/cpp_math.asp)
+
+### Classes
+Welcome to OOP  
+[Intro to OOP](https://www.w3schools.com/cpp/cpp_oop.asp)  
+[Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp)  
+[Class Methods](https://www.w3schools.com/cpp/cpp_class_methods.asp)  
+[Constructors](https://www.w3schools.com/cpp/cpp_constructors.asp)
