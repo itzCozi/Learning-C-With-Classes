@@ -59,6 +59,10 @@ How to create and use switch cases
 All data types and there details  
 [W3 Data Types](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
+### Files
+How to edit and access files in C++  
+[Files](https://www.w3schools.com/cpp/cpp_files.asp)
+
 ### Loops
 While loops and for loops in C++  
 [While Loops](https://www.w3schools.com/cpp/cpp_while_loop.asp)  
@@ -67,6 +71,10 @@ While loops and for loops in C++
 ### Sleep commands
 Taking a break in the program for a x amount of seconds  
 [geeks for geeks](https://www.geeksforgeeks.org/sleep-function-in-cpp/)
+
+### Exceptions
+How to catch errors and use exceptions  
+[Exceptions](https://www.w3schools.com/cpp/cpp_exceptions.asp)
 
 ### Math in C++
 Full math articles, I only read what the keywords did  
@@ -78,4 +86,12 @@ Welcome to OOP
 [Intro to OOP](https://www.w3schools.com/cpp/cpp_oop.asp)  
 [Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp)  
 [Class Methods](https://www.w3schools.com/cpp/cpp_class_methods.asp)  
-[Constructors](https://www.w3schools.com/cpp/cpp_constructors.asp)
+[Constructors](https://www.w3schools.com/cpp/cpp_constructors.asp)  
+[Encapsulation](https://www.w3schools.com/cpp/cpp_encapsulation.asp)  
+[Inheritance](https://www.w3schools.com/cpp/cpp_inheritance.asp)  
+[Polymorphism](https://www.w3schools.com/cpp/cpp_polymorphism.asp)  
+
+### Extra
+[Exercises](https://www.w3schools.com/cpp/cpp_exercises.asp)  
+[Examples](https://www.w3schools.com/cpp/cpp_examples.asp)
+
