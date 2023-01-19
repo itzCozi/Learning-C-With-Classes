@@ -13,7 +13,7 @@ All the basics and keywords that "everyone should know"... or not
 
 ### Compilation
 G++ compiler and how to use it  
-[G++ Compiler](https://www3.cs.stonybrook.edu/~alee/g++/g++.html)  
+[G++ Compiler](https://gcc.gnu.org/)  
 [G++ Tutorial](https://www.tutorialspoint.com/How-to-compile-and-run-the-Cplusplus-program)
 
 ### Structures
