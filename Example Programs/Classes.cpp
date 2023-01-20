@@ -1,3 +1,6 @@
+// Made for Linux
+// #include<windows.h> for windows PC
+
 // So that strings dont have to be arrays of characters
 #include <string>
 // Input Output stream
