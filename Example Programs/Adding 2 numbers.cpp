@@ -6,7 +6,7 @@
 // For output clearing in linux
 #include <stdlib.h>
 // For sleep fuc
-#include<unistd.h>
+#include <unistd.h>
 // Input Output stream
 #include <iostream>
 
