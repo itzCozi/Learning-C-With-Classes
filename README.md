@@ -37,3 +37,8 @@ what exactly to make ill list some examples below.
 4. Currency Converter
 
 And remember google and stack overflow are your best freinds when learning.
+
+### Contact Me
+Discord: BadDeveloper#4200  
+Email: Cooperransom08@outlook.com  
+[Replit](https://replit.com/@cozi08) | [Twitter](https://twitter.com/ransom_cooper)
