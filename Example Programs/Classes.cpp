@@ -1,5 +1,4 @@
-// Made for Linux
-// #include<windows.h> for windows PC
+// Can run on all PC's
 
 // So that strings dont have to be arrays of characters
 #include <string>
