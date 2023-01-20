@@ -7,6 +7,7 @@ First you need a code editor or IDE you can download both here
 [IDE](https://www.eclipse.org/downloads/)  
 [Online IDE](https://replit.com/~) | Recommended for newbies  
 [Code Editor](https://notepad-plus-plus.org/downloads/)  
+[VS Code](https://code.visualstudio.com/Download) | Great code editor
 
 ## Learning 
 After your environment is setup you better get to reading, head to Sources.MD  
