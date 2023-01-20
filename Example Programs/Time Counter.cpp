@@ -1,13 +1,12 @@
 // Made for Linux
 // #include<windows.h> for windows PC
-
 // Counts for a user defined amout of seconds and then prints user defined text
 
 // So that strings dont have to be arrays of characters
 #include <string>
 // For output clearing in linux
 #include <stdlib.h>
-// For sleep fuc
+// For sleep fuc in linux
 #include<unistd.h>
 // Input Output stream
 #include <iostream>
