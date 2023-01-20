@@ -1,3 +1,6 @@
+// Made for Linux
+// #include<windows.h> for windows PC
+
 // Counts for a user defined amout of seconds and then prints user defined text
 
 // So that strings dont have to be arrays of characters
