@@ -21,8 +21,8 @@ I recommend not following a tutorial and figuiring it out yourself with your new
 but if you can't you can follow [this](http://www.trytoprogram.com/cpp-examples/cplusplus-program-to-convert-temperature/).
 
 ## Compilation
-After you have coded your very own temperature converter its time to compile this source code into an Executable (.EXE)  
-for this you will need to download G++ and learn the basics of compilation, everything you need is below.  
+After you have coded your very own temperature converter its time to compile this source code  
+into an Executable (.EXE) for this you will need to download G++ and learn the basics of compilation, everything you need is below.  
 [G++](https://gcc.gnu.org/)  
 [How To](https://www.tutorialspoint.com/How-to-compile-and-run-the-Cplusplus-program)
 
