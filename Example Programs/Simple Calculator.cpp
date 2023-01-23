@@ -61,6 +61,7 @@ int main() {
   // If user picked 1 this block is ran
   if (menuOption==1) {
     system("clear");
+
     std::cout << "----- Addition -----\n\n";
     std::cout << "Enter first number ";
     std::cin >> x;
@@ -76,6 +77,7 @@ int main() {
   // If user picked 2 this block is ran
   if (menuOption==2) {
     system("clear");
+
     std::cout << "----- Subtraction -----\n\n";
     std::cout << "Enter first number ";
     std::cin >> x;
@@ -91,6 +93,7 @@ int main() {
   // If user picked 3 this block is ran
   if (menuOption==3) {
     system("clear");
+
     std::cout << "----- Divison -----\n\n";
     std::cout << "Enter first number ";
     std::cin >> x;
@@ -106,6 +109,7 @@ int main() {
   // If user picked 4 this block is ran
   if (menuOption==4) {
     system("clear");
+
     std::cout << "----- Multiplication -----\n\n";
     std::cout << "Enter first number ";
     std::cin >> x;
@@ -121,6 +125,7 @@ int main() {
   // If user picked 5 this block is ran
   if (menuOption==5) {
     system("clear");
+    
     std::string quitOpt;
     std::cout << "Would you like to quit the program? (y/n)";
     std::cin >> quitOpt;
