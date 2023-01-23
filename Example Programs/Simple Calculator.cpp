@@ -122,26 +122,26 @@ int main() {
   if (menuOption==5) {
     system("clear");
     std::string quitOpt;
-    std::cout << "Would you like to quit the program? ";
+    std::cout << "Would you like to quit the program? (y/n)";
     std::cin >> quitOpt;
     if (quitOpt=="yes") {
-      std::cout << "Exiting the application";
+      std::cout << "Exiting the application\n";
       sleep(2);
       return 0;}
     if (quitOpt=="y") {
-      std::cout << "Exiting the application";
+      std::cout << "Exiting the application\n";
       sleep(2);
       return 0;}
     if (quitOpt=="no") {
-      std::cout << "Heading to application";
+      std::cout << "Heading to application\n";
       sleep(2);
       main();}
     if (quitOpt=="n") {
-      std::cout << "Heading to application";
+      std::cout << "Heading to application\n";
       sleep(2);
       main();}
     else {
-      std::cout << "Invaild Input";
+      std::cout << "Invaild Input\n";
       sleep(2);
       main();}
   }
